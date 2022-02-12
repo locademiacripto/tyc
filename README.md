@@ -1,4 +1,4 @@
-# tyc
+# tyc - (Términos y Condiciones)
 Análisis de Términos y Condiciones
 
 Idea que surge y se plasma [aquí en el Foro Cripto](https://github.com/locademiacripto/foro/discussions/3).
