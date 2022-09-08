@@ -3,7 +3,7 @@ Análisis de Términos y Condiciones
 
 Idea que surge y se plasma [aquí en el Foro Cripto](https://github.com/locademiacripto/foro/discussions/3).
 
-Aún en desarrollo, repo privado.
+Aún en desarrollo, era repo privado, paso a público. Surge necesidad vía [Twitter](https://twitter.com/LocademiaCripto/status/1567621281889062913?s=20&t=Qv-rokzgyeHiv-074oPzaA) de compartir PDF de TyC de la tarjeta Binance.
 
 ## Análisis
 
