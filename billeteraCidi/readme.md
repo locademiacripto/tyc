@@ -1,7 +1,5 @@
 # Billetera Cidi
 
-Me llamó la atención que mencionan BLOCKCHAIN !!!
-
 ## Copio y pego
 
 Versión: 20/10/2022 
@@ -28,11 +26,13 @@ provenientes de:
 Fondos: 
 a) Ingresos de dinero por parte del contribuyente por los medios que habilite la Dirección General 
 de Rentas. 
+
 Créditos: 
 b)  Créditos  fiscales  por  pagos  no  imputados,  por  pagos  dobles  de  obligaciones  o  créditos 
 verificados por la Dirección General de Rentas.  
 c)  Créditos  fiscales  por  beneficios  que  otorgue  la  Provincia  de  Córdoba  a  través  de  la  norma 
 correspondiente que permita su incorporación a la billetera y su utilización respectiva. 
+
 Servicios de Billetera CiDi: El Usuario que utiliza Billetera CiDi, pueden consultar y conocer el 
 valor total en créditos digitales que se encuentran disponibles en su billetera.  
 Los créditos digitales disponibles, podrán utilizarse para efectuar la cancelación de obligaciones 
@@ -41,16 +41,18 @@ realizarse  transferencias  de  los  créditos,  entre  diferentes  cuentas  de 
 operaciones podrán realizarse, conforme las disposiciones que surgen del presente documento de 
 “Términos y Condiciones de Uso” y de acuerdo a la normativa vigente aplicable a cada crédito 
 digital. 
+
 Aplicación  digital:  acción  mediante  la  que  el  usuario  hace  clic  en  “Aplicar”  para  finalizar  la 
 operación,  luego  de  elegir  y  hacer clic en “Pagar” o “Transferir”, utilizando su crédito digital 
 disponible  para:  cancelar  una  obligación  en  concreto  con  el  Estado  Provincial,  o  ceder  a  otro 
-usuario de billetera todo o parte de sus créditos digitales disponibles, respectivamente.  Usuario: persona humana, que en su carácter de contribuyente y/o responsable - en los términos 
-y  alcances  del  Código  Tributario  Provincial  -,  y/o  ciudadano  titular  de  créditos  o  fondos 
-disponibles; accede, activa el servicio y utiliza la aplicación web “Billetera CiDi”.  
+usuario de billetera todo o parte de sus créditos digitales disponibles, respectivamente.  Usuario: persona humana, que en su carácter de contribuyente y/o responsable - en los términos y  alcances  del  Código  Tributario  Provincial  -,  y/o  ciudadano  titular  de  créditos  o  fondos  disponibles; accede, activa el servicio y utiliza la aplicación web “Billetera CiDi”.  
+
 Administrador de Billetera CiDi: Dirección General de Rentas u organismo que en el futuro lo 
 reemplace. 
+
 Clave de ingreso: el usuario ingresa a Billetera CiDi utilizando Clave CiDi o Clave Fiscal AFIP, 
 a opción del usuario. 
+
 Identificación:  mecanismo que  se  utiliza  para  identificar de forma  exclusiva  a  los  Usuarios  al 
 ingresar a la aplicación. Billetera utiliza los servicios de terceros, permitiendo el ingreso mediante 
 las claves de usuario y contraseña de la plataforma CiDi o Clave Fiscal AFIP, a opción del usuario.  
@@ -58,22 +60,28 @@ Autenticación o Doble factor de Autenticación: es un mecanismo para que el Usu
 identificó  en  el  ingreso,  pueda  demostrar  que  es  quien  asegura  ser.  Configura  una  medida  de 
 seguridad  para  las  operaciones  del  Usuario  mediante  una  doble  validación  de  la  identidad  del 
 mismo. 
+
 Términos  y  Condiciones:  es  el  presente  documento  de  “términos  y  condiciones  de  uso” 
 constituye un contrato de adhesión entre el Usuario y Billetera CiDi que regula la utilización  y 
 funcionamiento de la aplicación Billetera CiDi.  
+
 Política de Privacidad: detalla el tratamiento que la aplicación Billetera CiDi, dará a los datos 
 recibidos por parte de los Usuarios, y que se encuentra en cumplimiento a lo establecido en la Ley 
 Nacional N° 25.326 de Protección de Datos Personales.  
+
 Responsable  de  la  Base  de  Datos:  Dirección  General  de  Rentas,  organismo  dependiente  del 
 Ministerio de Finanzas, en su carácter de Administrador de Billetera CiDi. 
 Aspectos Generales 
+
 Los Términos y Condiciones y Política de Privacidad que aquí se expresan, detallan todos 
 los derechos, responsabilidades y obligaciones entre el “Usuario” que accede, se registra y utiliza 
 el servicio de Billetera CiDi y; el “Billetera CiDi”.   
+
 El usuario debe leer detenidamente la totalidad de los términos y condiciones y políticas 
 de privacidad, antes de acceder o utilizar el servicio Billetera CiDi, bajo su entera responsabilidad.  
 Los Términos  y  Condiciones  y  la  Política de  Privacidad  deberán  ser  aceptados  por los 
 Usuarios expresamente, sin reservas, previo a la utilización de Billetera CiDi.  
+
 La Dirección General de Rentas podrá actualizar, complementar, sustituir y/o modificar 
 las condiciones de uso a través de la publicación, en la Plataforma “Billetera CiDi”, de versiones 
 de los “Términos y Condiciones de Uso” y “Política de Privacidad”, las cuales deberán ser 
@@ -82,17 +90,20 @@ Las versiones de los documentos “Términos y Condiciones de Uso” y “Polít
 Privacidad”, tendrán una vigencia de 24 meses, a contar desde la fecha de su última publicación, 
 salvo que la Dirección General de Rentas decida modificarlos en un plazo menor, conforme la 
 facultad descripta en el párrafo anterior.  
+
 El  Usuario  expresamente  acepta  que  la  documentación  e  información  relacionada  con 
 estos  Términos  y  Condiciones  y  Política  de  Privacidad,  será  publicada  únicamente  en  formato 
 digital. 
+
 Identificación de los Usuarios 
 La  identificación  de  los  usuarios  para  ingresar  a  Billetera  CiDi,  se  realiza  mediante  la 
-utilización de sistemas de terceros. Clave CiDi o Clave Fiscal AFIP, a opción del usuario.  El uso de los servicios de identificación de terceros, implica para el usuario, la aceptación 
-de los términos y condiciones de tales servicios. 
+utilización de sistemas de terceros. Clave CiDi o Clave Fiscal AFIP, a opción del usuario.  El uso de los servicios de identificación de terceros, implica para el usuario, la aceptación de los términos y condiciones de tales servicios. 
+
 Puede consultarse los mismos, junto con la política de privacidad de cada servicio, en los 
 siguientes enlaces: 
 AFIP: https://www.afip.gob.ar/claveFiscal/caracteristicas/que-es.asp 
 CiDi: https://cidi.cba.gov.ar/portal-publico/terminos 
+
 Regulación de Procedimientos 
 Activación de Billetera CiDi – Registro de usuario. 
 1.1 URL: Para  activar  el  servicio  de  “Billetera CiDi”,  el  usuario  ingresa a: 
@@ -179,6 +190,7 @@ cualquier medio o circunstancia, salvo disposición en contrario.
 habilitados por el presente “Términos y Condiciones de Uso” y disposiciones de la 
 normativa vigente, faculta al Administrador de Billetera CiDi a suspender la posibilidad 
 de uso de la aplicación.  
+
 Responsabilidades 
 1.1 La utilización de los servicios prestados por la aplicación Billetera CiDi, se realizan bajo 
 la exclusiva y entera responsabilidad del Usuario.  
@@ -200,6 +212,7 @@ respondiendo por las consecuencias de su divulgación a terceros.
 único responsable por las operaciones y solicitudes efectuadas en su cuenta de billetera. 
 4.1 En  consecuencia,  las  operaciones  realizadas  en  billetera  serán  consideradas  válidas, 
 legítimas y auténticamente emanadas y confirmadas por el Usuario. 
+
 Situaciones especiales 
 1.1 En  el  caso  de  Personas  jurídicas,  es  el  responsable  y/o  representante,  como  persona 
 humana,  quien  activa  el  uso  de  Billetera  CiDi  en  su  nombre,  utilizando  su  usuario  y 
@@ -211,6 +224,7 @@ Públicos (AFIP).
 con Billetera CiDi, bajo la entera responsabilidad de sus tutores o representantes legales.  
 1.3 Para aquellos sujetos que se encuentren en procesos de quiebra o concurso, Billetera CiDi 
 no estará disponible.  
+
 Propiedad intelectual 
 1.1 Todo el contenido y/o elementos como diseños, textos, imágenes, logos, iconos, botones, 
 programas  de  computación  tanto  fuente  como  objeto,  bases  de  datos,  arquitectura 
@@ -229,25 +243,30 @@ de protección de Billetera CiDi.
 6.1 Se encuentra prohibido copiar y/o adaptar el código de programación desarrollado por, o 
 por  cuenta  de  la  Provincia  de  Córdoba  para  generar  y  operar  sus  páginas,  el  cual  se 
 encuentra protegido por la legislación aplicable. 
+
 Ley aplicable y jurisdicción de Billetera CiDi 
 Los  Términos  y  Condiciones  de  Uso  aquí  presentados  se  rigen  por  las  leyes  de  la 
 República  Argentina.  En  caso  de  surgir  cualquier  controversia  respecto  de  la  interpretación  o 
 cumplimiento  de  los  presentes,  el  Administrador  y  el  Usuario  se  someten  a  los  Tribunales 
 Ordinarios de la Ciudad de Córdoba, con renuncia expresa de las partes a cualquier otro fuero y/o 
 jurisdicción. Política de Privacidad 
+
 Mediante el presente documento se explica el tipo de información personal que recopila, 
 el uso que se hace de los datos y como se protegen; para que, de manera clara y transparente, los 
 titulares de los datos puedan conocer cómo es el tratamiento de los mismos.  
 Billetera  CiDi  sitúa  dentro  de  sus  prioridades  el  velar  por  la  privacidad  de  los  datos 
 personales de sus usuarios. 
+
 Billetera  CiDi,  dará  a  los  datos  recibidos  por  parte  de  los Usuarios  el  tratamiento 
 adecuado  y  responsable,  de  acuerdo  a  las  disposiciones  y  principios  establecidos  en  la  Ley 
 Nacional N° 25.326 de Protección a los Datos Personales.  
+
 La activación y utilización de los servicios de Billetera CiDi, conllevan el consentimiento 
 voluntario, expreso e informado a ésta Política de Privacidad, que forma parte de los Términos y 
 Condiciones de uso, como requisito esencial y previo para poder operar con billetera.  
 La lectura de esta Política de Privacidad es entera responsabilidad de los Usuarios. El uso 
 de la aplicación presupone la aceptación de la misma.  
+
 Las presentes políticas describen: 
 1. Identidad y domicilio del Responsable de la Base de Datos 
 2. La recolección de Datos y su finalidad. 
